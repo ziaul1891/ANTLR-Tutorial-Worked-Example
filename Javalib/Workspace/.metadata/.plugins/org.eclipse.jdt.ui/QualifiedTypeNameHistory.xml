@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="antlr.ExprBaseVisitor"/>
+    <fullyQualifiedTypeName name="org.antlr.v4.runtime.CharStream"/>
+    <fullyQualifiedTypeName name="org.antlr.v4.runtime.CharStreams"/>
+    <fullyQualifiedTypeName name="antlr.ExprLexer"/>
+    <fullyQualifiedTypeName name="org.antlr.v4.runtime.CommonTokenStream"/>
+    <fullyQualifiedTypeName name="antlr.ExprParser"/>
+    <fullyQualifiedTypeName name="org.antlr.runtime.tree.ParseTree"/>
+    <fullyQualifiedTypeName name="org.antlr.v4.runtime.tree.ParseTree"/>
+    <fullyQualifiedTypeName name="expression.AntlrToProgram"/>
+    <fullyQualifiedTypeName name="expression.Program"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="expression.ExpressionProcessor"/>
+</qualifiedTypeNameHistroy>

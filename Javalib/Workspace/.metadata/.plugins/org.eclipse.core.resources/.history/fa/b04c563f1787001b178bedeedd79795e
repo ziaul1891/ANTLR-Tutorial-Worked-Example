@@ -1,0 +1,21 @@
+package app;
+
+import org.antlr.v4.runtime.CharStream;
+import org.antlr.v4.runtime.CharStreams;
+
+import antlr.ExprParser;
+
+public class ExpressionApp {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	private static ExprParser getParser(String fileName) {
+		ExprParser parser = null;
+		CharStream input = CharStreams.fromFileName(fileName);
+		
+		return parser;
+	}
+
+}
